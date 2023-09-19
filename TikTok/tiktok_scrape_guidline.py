@@ -1,3 +1,16 @@
+'''
+Before you start, open a new terminal and do the following: 
+1. Enter: 
+    pip install tiktokapipy pandas openpyxl
+    python -m playwright install
+2. Get the full url from the vedio you are about to extract:
+    e.g. Get url such as: https://www.tiktok.com/@ecofreako/video/7280262760120847662?_r=1&_t=8aqWjyexFtu
+
+3. Start using the following code to extract data. 
+
+Attention: This scraper is not used for comment extraction. 
+'''
+
 from tiktokapipy.api import TikTokAPI
 import pandas as pd
 
