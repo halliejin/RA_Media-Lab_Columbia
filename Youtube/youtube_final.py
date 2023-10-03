@@ -2,8 +2,8 @@ import requests
 import csv
 import re
 
-# 你的API密钥
-API_KEY = 'AIzaSyDXI_t9eyevX67XpRLp0FadEBA46MQPSXw'
+# API密钥
+API_KEY = 'yourAPIkey'
 
 # 2020
 urls = [
