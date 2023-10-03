@@ -2,7 +2,7 @@ import requests
 import csv
 
 # 你的API密钥
-API_KEY = 'AIzaSyC2DJp47V7Z_FmaOmhXaLxOzaoAxW0est8'
+API_KEY = 'abcdefg'
 
 # 需要查询的YouTuber的主页地址列表
 urls = [
